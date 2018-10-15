@@ -1,34 +1,18 @@
-## Welcome to GitHub Pages
+## Eleni Nouvaki
+  Location : Corfu, Greece
+  e-mail   : eleni.nouvaki@gmail.com
 
-You can use the [editor on GitHub](https://github.com/p17nouv/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Qualifications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Studies
 
-### Markdown
+* **4th High school of Drama**  : 09/2014-05/2017
+* **Department of informatics** : 09/2017- 'still'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Foreign languages
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+1. B2 certificate in English
+2. B1 certificate in german
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17nouv/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
