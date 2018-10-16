@@ -13,7 +13,7 @@
 #### Foreign languages
 
 1. B2 certificate in English
-2. B1 certificate in german
+2. B1 certificate in German
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17nouv/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
