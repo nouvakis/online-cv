@@ -1,5 +1,6 @@
 ## Eleni Nouvaki
   Location : Corfu, Greece
+  
   e-mail   : eleni.nouvaki@gmail.com
 
 ### Qualifications
