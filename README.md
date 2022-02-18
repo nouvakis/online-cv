@@ -12,8 +12,15 @@
 
 #### Foreign languages
 
-1. B2 certificate in English
-2. B1 certificate in German
+1. B2 certificate in English - MICHIGAN
+2. B1 certificate in German - GOETHE-INSTITUT
+
+#### Hobbies
+Scout (Volunteering)
+  from 09/2006 to 06/2017 - Girl scout
+  from 09/2017 to 08/2019 - Scoutmaster in Corfu
+  from 09/2019 still - Scouutmaster in Drama
+ 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17nouv/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
