@@ -16,9 +16,9 @@
 2. B1 certificate in German - GOETHE-INSTITUT
 
 #### Hobbies
-Scout (Volunteering)
-  from 09/2006 to 06/2017 - Girl scout
-  from 09/2017 to 08/2019 - Scoutmaster in Corfu
+Scout (Volunteering)<br/>
+  from 09/2006 to 06/2017 - Girl scout<br/>
+  from 09/2017 to 08/2019 - Scoutmaster in Corfu <br/>
   from 09/2019 still - Scouutmaster in Drama
  
 
