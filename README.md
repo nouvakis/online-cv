@@ -19,7 +19,7 @@
 Scout (Volunteering)<br/>
   from 09/2006 to 06/2017 - Girl scout<br/>
   from 09/2017 to 08/2019 - Scoutmaster in Corfu <br/>
-  from 09/2019 still - Scouutmaster in Drama
+  from 09/2019 still - Scoutmaster in Drama
  
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17nouv/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
